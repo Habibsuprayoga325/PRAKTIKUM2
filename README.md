@@ -19,8 +19,7 @@ public class Person2 {
     private String jenisKelamin;
     private int umur;
 ```
-![image](SS3/ss1.png)
-
+![alt text](https://github.com/Habibsuprayoga325/PRAKTIKUM2/blob/main/ss3.png?raw=true)
 - Konstruktor
 ```
 public Person2(String nama, String jenisKelamin, int umur) {
